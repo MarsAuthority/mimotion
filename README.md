@@ -10,8 +10,7 @@ test
 
 ## Github Actions 部署指南
 
-### 一、Fork 此仓库1
-
+### 一、Fork 此仓库2
 ### 二、设置账号密码
 > 添加名为  **USER**、**PWD**、**OPEN_GET_WEATHER**、**AREA**的变量: Settings-->Secrets-->New secret  
 
